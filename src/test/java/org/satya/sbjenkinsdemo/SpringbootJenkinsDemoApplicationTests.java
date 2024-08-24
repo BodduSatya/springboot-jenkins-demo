@@ -12,6 +12,6 @@ class SpringbootJenkinsDemoApplicationTests {
     @Test
     void contextLoads() {
         logger.info("Inside contextLoads method in SpringbootJenkinsDemoApplicationTests");
+        logger.info("Inside contextLoads method in SpringbootJenkinsDemoApplicationTests222");
     }
-
 }
