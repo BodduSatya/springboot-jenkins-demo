@@ -13,6 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot-jenkins-demo</name>
     <description>springboot-jenkins-demo</description>
+    <packaging>war</packaging> <!-- Change from jar to war -->
     <url/>
     <licenses>
         <license/>
